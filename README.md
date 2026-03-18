@@ -23,9 +23,6 @@ If they are not on zero. Go to Object/Apply/All Transforms to make it so.
 
 3. **Put the Mesh in the Right Collection**: The geo nodes looks at the Put Your Mesh here collection and uses it to measure the volume. So Make sure to put your mesh there. If your geo is very dense and your PC is not great, you might want to only place the mesh there once you are done positioning the mesh in the right spot
 
-Here is an example of the towers. They are purely GN defined, so their controls is on the modifier. There are two type, the round one and the square one. 
-
-
 ![screenshot](documentation/WhereToPutTheMesh.jpg)
 
 
